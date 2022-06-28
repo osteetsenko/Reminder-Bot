@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0059: Ненужное присваивание значения
+dotnet_diagnostic.IDE0059.severity = none

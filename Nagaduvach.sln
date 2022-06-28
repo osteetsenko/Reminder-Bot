@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagaduvach", "Nagaduvach\Nagaduvach.csproj", "{D7459CE3-2D7E-4C63-9794-0F6F28967E75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F0EA6479-22E3-4B91-B7E3-F1B98B57DCFD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7459CE3-2D7E-4C63-9794-0F6F28967E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7459CE3-2D7E-4C63-9794-0F6F28967E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7459CE3-2D7E-4C63-9794-0F6F28967E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7459CE3-2D7E-4C63-9794-0F6F28967E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB36C26C-2144-48A2-9F68-CC7B6AE7BD85}
+	EndGlobalSection
+EndGlobal
